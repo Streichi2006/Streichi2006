@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Streichi2006
-- 👀 I’m interested in Computers and coding
-- 🌱 I’m currently learning Java
-- 📫 BastiatGithub@gmail.com
+
